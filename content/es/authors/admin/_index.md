@@ -16,14 +16,13 @@ email: ""
 highlight_name: false
 interests:
 - Programación en R
-- Reproducibilidad computacional
-- Ciencia abierta
+- Reproducibilidad y ciencia abierta
 - Educación
 - Ecotoxicología
 - Regulación
 
 organizations:
-- name: Stanford University
+- name: INTA - CONICET
   url: https://www.stanford.edu/
 role: Professor of Artificial Intelligence
 social:

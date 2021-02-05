@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://nostalgic-sinoussi-c542be@netlify.app/sitemap.xml
+Sitemap: https://nostalgic-sinoussi-c542be.netlify.app/sitemap.xml

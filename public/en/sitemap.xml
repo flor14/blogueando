@@ -3,601 +3,706 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/courses/example/python/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/courses/example/python/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/courses/example/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/courses/example/python/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/courses/example/python/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/courses/example/visualization/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/courses/example/visualization/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/courses/example/visualization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/courses/example/visualization/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/courses/example/visualization/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/courses/example/stats/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/courses/example/stats/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/courses/example/stats/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/courses/example/stats/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/courses/example/stats/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/talk/example-talk/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/talk/example-talk/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/talk/example-talk/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/talk/example-talk/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/event/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/event/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/event/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/event/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/post/hi-hugo/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/hi-hugo/</loc>
     <lastmod>2021-02-04T17:21:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/post/hi-hugo/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/hi-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/post/hi-hugo/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/hi-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/post/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/</loc>
     <lastmod>2021-02-04T17:21:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/post/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/post/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/courses/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/courses/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/courses/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/courses/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/courses/example/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/courses/example/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/courses/example/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/courses/example/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/tag/academic/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/tag/academic/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/tag/academic/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/academic/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/authors/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/authors/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/authors/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/authors/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/categories/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/categories/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/categories/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/category/demo/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/category/demo/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/category/demo/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/category/demo/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/florencia-dandrea/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/florencia-dandrea/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/author/florencia-dandrea/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/florencia-dandrea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/author/florencia-dandrea/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/author/florencia-dandrea/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/tags/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/tags/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/tags/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/post/getting-started/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/post/getting-started/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/post/getting-started/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/%E5%90%B3%E6%81%A9%E9%81%94/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/tag/%E5%BC%80%E6%BA%90/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/%E5%BC%80%E6%BA%90/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/tag/%E5%BC%80%E6%BA%90/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/%E5%BC%80%E6%BA%90/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/category/%E6%95%99%E7%A8%8B/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/%E6%95%99%E7%A8%8B/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/category/%E6%95%99%E7%A8%8B/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/category/%E6%95%99%E7%A8%8B/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/post/writing-technical-content/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/post/writing-technical-content/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/writing-technical-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/post/writing-technical-content/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/writing-technical-content/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication-type/3/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication-type/3/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication-type/3/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication-type/3/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication/preprint/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication/preprint/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication/preprint/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication/preprint/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication_types/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication_types/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication_types/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/tag/source-themes/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/tag/source-themes/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/tag/source-themes/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/source-themes/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/post/jupyter/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/post/jupyter/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/jupyter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/post/jupyter/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/jupyter/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/slides/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/slides/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/slides/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/slides/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/slides/example/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/slides/example/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/slides/example/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/tag/deep-learning/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/terms/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/tag/deep-learning/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/tag/deep-learning/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/tag/demo/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/tag/demo/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/tag/demo/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/demo/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/project/external-project/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/project/external-project/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/project/external-project/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/project/external-project/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/project/internal-project/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/project/internal-project/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/project/internal-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/project/internal-project/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/project/internal-project/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/project/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/project/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/project/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/project/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication-type/2/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication-type/2/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication-type/2/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication-type/2/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication/journal-article/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication/journal-article/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication/journal-article/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication/journal-article/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/robert-ford/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/author/robert-ford/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/robert-ford/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/author/robert-ford/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/author/robert-ford/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication-type/1/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/2015-07-23-r-rmarkdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/plot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/plot/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/category/r/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/r-markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/r-markdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/regression/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication-type/1/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication-type/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication-type/1/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication-type/1/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication/conference-paper/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/publication/conference-paper/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/publication/conference-paper/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/publication/conference-paper/"
                 />
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/%E5%90%B3%E6%81%A9%E9%81%94/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
                 />
   </url>
   

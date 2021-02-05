@@ -153,21 +153,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be@netlify.app/es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-  </url>
-  
-  <url>
     <loc>https://nostalgic-sinoussi-c542be@netlify.app/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -179,6 +164,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nostalgic-sinoussi-c542be@netlify.app/tag/academic/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be@netlify.app/authors/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be@netlify.app/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be@netlify.app/authors/"
                 />
   </url>
   
@@ -213,7 +213,7 @@
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/florencia-dandrea/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -223,7 +223,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href=""
+                href="https://nostalgic-sinoussi-c542be@netlify.app/author/florencia-dandrea/"
                 />
   </url>
   
@@ -258,7 +258,7 @@
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -268,7 +268,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href=""
+                href="https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
                 />
   </url>
   
@@ -468,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nostalgic-sinoussi-c542be@netlify.app/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -548,7 +543,7 @@
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -558,7 +553,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href=""
+                href="https://nostalgic-sinoussi-c542be@netlify.app/author/robert-ford/"
                 />
   </url>
   
@@ -593,12 +588,7 @@
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be@netlify.app/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+    <loc>https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -607,7 +597,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href=""
+                href="https://nostalgic-sinoussi-c542be@netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
                 />
   </url>
   

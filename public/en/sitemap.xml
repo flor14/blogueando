@@ -125,6 +125,16 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/binder/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/binder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/binder/"
+                />
   </url>
   
   <url>
@@ -155,11 +165,31 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/latinr/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/latinr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/latinr/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/learnr/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/learnr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/learnr/"
+                />
   </url>
   
   <url>
@@ -185,21 +215,61 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/reprohack/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/reprohack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/reprohack/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/rstudio/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/rstudio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/rstudio/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/sharing-reproducible-and-interactive-environments-in-r-with-binder.en-us/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/compartiendo-entornos-interactivos-y-reproducibles-en-r-con-binder.es-es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/sharing-reproducible-and-interactive-environments-in-r-with-binder.en-us/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/shiny/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/shiny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/shiny/"
+                />
   </url>
   
   <url>
@@ -225,6 +295,16 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/purrr/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/purrr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/purrr/"
+                />
   </url>
   
   <url>
@@ -260,11 +340,31 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/framework/</loc>
     <lastmod>2021-02-05T22:38:53-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/framework/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/framework/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/ines-montani/</loc>
     <lastmod>2021-02-05T22:38:53-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/ines-montani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/ines-montani/"
+                />
   </url>
   
   <url>
@@ -275,11 +375,31 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/tutorials/</loc>
     <lastmod>2021-02-05T22:38:53-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/tutorials/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/tutorials/</loc>
     <lastmod>2021-02-05T22:38:53-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/category/tutorials/"
+                />
   </url>
   
   <url>
@@ -290,11 +410,31 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/journal/</loc>
     <lastmod>2021-02-05T22:28:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/journal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/journal/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/open-source/</loc>
     <lastmod>2021-02-05T22:28:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/open-source/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/open-source/"
+                />
   </url>
   
   <url>
@@ -340,6 +480,16 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/software/</loc>
     <lastmod>2021-02-05T22:28:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/software/"
+                />
   </url>
   
   <url>

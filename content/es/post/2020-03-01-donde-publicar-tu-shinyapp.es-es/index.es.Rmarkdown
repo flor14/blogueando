@@ -12,8 +12,9 @@ featured: no
 header:
   image: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582548588/2_k0l388.png"
   caption: ''
-  focal_point: ''
+  focal_point: 'center'
   preview_only: true
+thumbnail: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582548588/2_k0l388.pn"
 projects: []
 ---
 

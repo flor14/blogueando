@@ -2,7 +2,7 @@
 title: '¿Dónde publicar tu Shiny app?'
 author: Florencia D'Andrea
 date: '2020-03-01'
-slug: where-to-publish-your-ShinyApp.en-us
+slug: donde-publicar-tu-shinyapp.es-es
 categories: ["Shiny"]
 tags: ["ShinyApp", "publicar", "journal", "ciencia abierta", "software", "open source", "academia"]
 subtitle: ''
@@ -13,7 +13,7 @@ header:
   image: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582548588/2_k0l388.png"
   caption: ''
   focal_point: ''
-  preview_only: no
+  preview_only: true
 projects: []
 ---
 

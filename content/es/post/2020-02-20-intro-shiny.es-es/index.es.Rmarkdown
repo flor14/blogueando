@@ -14,7 +14,7 @@ header:
   image:  "https://res.cloudinary.com/flor/image/upload/e_auto_brightness,o_70/v1580575702/matry_rep2gq.jpg"
   caption: ''
   focal_point: ''
-  preview_only: no
+  preview_only: true
 projects: []
 ---
 

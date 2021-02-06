@@ -13,7 +13,7 @@ header:
   image: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1584660577/3_zru9mg.png"
   caption: ''
   focal_point: ''
-  preview_only: no
+  preview_only: true
 projects: []
 ---
 Mayo 2020: Podes leer la entrevista que salió en el blog de RStudio sobre los tutoriales https://education.rstudio.com/blog/2020/05/teach-interactive-course/

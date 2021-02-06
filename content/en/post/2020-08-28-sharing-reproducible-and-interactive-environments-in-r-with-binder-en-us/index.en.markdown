@@ -14,7 +14,7 @@ header:
   image:  "https://res.cloudinary.com/flor/image/upload/v1598698772/github_squares_c9trzb.png"
   caption: ''
   focal_point: ''
-  preview_only: no
+  preview_only: true
 projects: []
 ---
 

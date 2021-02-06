@@ -15,74 +15,11 @@ height = "325px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
 [[item]]
-  title = ""
-  content = "\"Alison was knowledgeable but at the same time very approachable. She had a sense of humor and very engaging style that gave me confidence that I can do this.\""
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "headers/pomegranate.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "see my projects"
-  cta_url = "/projects"
-  cta_icon_pack = "fas"
-  cta_icon = "spa"
-
- 
-[[item]]
-  title = ""
-  content = "\"Probando\""
+  title = "Si si si"
+  content = "\" Un poco más .\""
   align = "center"
-
-  overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "https://res.cloudinary.com/flor/image/upload/v1590446322/17_lilakp.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
-
-  cta_label = "see my projects"
-  cta_url = "/projects"
-  cta_icon_pack = "fas"
-  cta_icon = "spa"
-  
-
-[[item]]
-  title = ""
-  content = "Hola"
-  align = "center"
-
-  overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "https://res.cloudinary.com/flor/image/upload/v1590446322/17_lilakp.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  cta_label = "see my projects"
-  cta_url = "/projects"
-  cta_icon_pack = "fas"
-  cta_icon = "spa"
-  
-  
-[[item]]
-  title = ""
-  content = "Chau"
-  align = "center"
-
-  overlay_color = "#404040"  # An HTML color value.
-  overlay_img = "https://res.cloudinary.com/flor/image/upload/v1590446322/17_lilakp.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
-
-  cta_label = "see my projects"
-  cta_url = "/projects"
-  cta_icon_pack = "fas"
-  cta_icon = "spa"
-  
-[[item]]
-  title = ""
-  content = "Mucho"
-  align = "left"
 
   overlay_color = "#404040"  # An HTML color value.
   overlay_img = "https://res.cloudinary.com/flor/image/upload/v1590446322/17_lilakp.png"  # Image path relative to your `static/img/` folder.
@@ -93,3 +30,4 @@ height = "325px"
   cta_icon_pack = "fas"
   cta_icon = "spa"
 +++
+

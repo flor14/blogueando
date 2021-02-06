@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: RLadies
+    tag: RLadies
+  - name: Reproducibilidad
+    tag: Reproducibilidad
+  - name: Shiny
+    tag: Shiny
   - name: Other
     tag: Demo
 

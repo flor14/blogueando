@@ -1,0 +1,72 @@
+---
+title: 'Dos ejemplos de iteración con purrr - Clase para la certificación de RStudio'
+author: Florencia D'Andrea
+date: '2020-06-21'
+slug: 'dos-ejemplos-iteracion-purrr.es-es'
+categories: ["Clases"]
+tags: ["educación", "filminas", "purrr", "iteración"]
+subtitle: ''
+summary: 'Material usado para rendir el examen de la certificación de RStudio para ser Tidyverse Instructor Trainer'
+authors: []
+featured: no
+header:
+  image: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1592763305/14_ibvzqm.png"
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Certificación de RStudio
+
+Recientemente aprobé los exámenes para certificarme como  [instructora](https://education.rstudio.com/trainers/) de Tidyverse. La certificación consta de dos exámenes, uno específico (como Tidyverse o Shiny) y otro un examen de enseñanza.
+En este blog voy a compartir una clase de 15 minutos que preparé para aprobar el examen de enseñanza.
+
+## ¿Sobre qué preparar la clase?
+
+<center>
+![Logo del paquete Purrr](https://res.cloudinary.com/flor/image/upload/c_scale,w_156/v1592765241/purrr_yefga4.png)
+</center>
+
+Dentro de mi trabajo como postdoc uso loops muy seguido ya que debo automatizar distintas tareas. Es por eso que decidí enseñar dos ejemplos específicos de iteración usando funciones en el paquete `purrr`.
+Encuentro que estos ejemplos son motivadores para los estudiantes, ya que estas funciones ofrecen una manera simple de hacer mucho trabajo:
+
+* Leer un grupo de archivos con la misma extensión y obtener un marco de datos usando `map_df()`
+
+* Generar informes de Rmarkdown a partir de una lista de parámetros automáticamente con `pwalk()` 
+
+<center>
+
+![](https://res.cloudinary.com/flor/image/upload/v1592769070/7_eng_zdttur.png)
+</center>
+
+## ¿Para quién es la clase?
+
+Esta clase esta pensada como parte de un curso de análisis de datos de tres semanas de duración para estudiantes graduados sin ninguna capacitación previa en programación.
+Los 15 minutos son parte de la última clase del curso. Los estudiantes ya han aprendido temas básicos como visualización, manipulación de datos, RMarkdown e iteración.
+
+## Importante
+
+* Estos 15 minutos están destinados a explicarse DESPUÉS de [loops y los paquetes `purrr`](https://es.r4ds.hadley.nz/iteraci%C3%B3n.html) y [`Rmarkdown`](https://es.r4ds.hadley.nz/r-markdown.html). En particular, para responder las partes de "A practicar" necesitan conceptos que se explicaron anteriormente al fragmento de la clase que muestro aquí.
+
+* No es necesario usar Xaringan para preparar las filmnas para la certificación. 
+
+* Es importante que practiques tu clase controlando que no exceda los 15 minutos.
+
+## Archivos
+#### Filminas
+
+[Filminas aquí](https://flor14.github.io/purrr_filminas/purrr_class_15min_es#1)
+<iframe src="https://flor14.github.io/purrr_filminas/purrr_class_15min_es#1" width="672" height="300"></iframe>
+
+#### Código para explicar en las demostraciones
+El archivo con el código para la demostración en vivo se encuentra en [Live coding.R](https://mybinder.org/v2/gh/flor14/purrr_class/e6be8080991cbd9cad0eba7b4f24858a469026a3) (hay que tener un poco de paciencia hasta que cargue R-Studio)
+
+¡Ojalá les sea útil! 
+
+🐱🧶
+
+<center>
+
+![](https://res.cloudinary.com/flor/image/upload/v1592183718/tuna_piola_qk9jad.png)
+</center>

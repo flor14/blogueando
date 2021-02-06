@@ -1,0 +1,149 @@
+---
+title: 'Receta para tu primer tutorial interactivo'
+author: Florencia D'Andrea
+date: '2020-03-28'
+slug: receta-para-tu-primer-tutorial.es-es
+categories: ["Tutorials"]
+tags: ["Tutorials", "Ines Montani", "Framework"]
+subtitle: ''
+summary: 'Una guia para realizar tu tutorial interactivo usando el framework de Ines Montani'
+authors: []
+featured: no
+header:
+  image: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1584660577/3_zru9mg.png"
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+Mayo 2020: Podes leer la entrevista que salió en el blog de RStudio sobre los tutoriales https://education.rstudio.com/blog/2020/05/teach-interactive-course/
+
+
+> El objetivo de este posteo es proveer una mapa de ruta señalando los recursos disponibles para generar tu propio tutorial.
+
+## Hola
+
+El año pasado ayude a pasar algunos cursos del formato de cursos de DataCamp al del framework generado especialmente por Ines Montani. [Aquí](https://github.com/flor14/tutorials) encontrarás algunos ejemplos de tutoriales creados con este framework. 
+
+Luego de un año atareado que incluyo terminar mi doctorado, finalmente tuve cierto tiempo para realizar una contribución a la comunidad sobre como generar estos tutoriales.
+
+### ¿Por qué usar este framework para armar tu tutorial?
+
+1- [Ted Laderas](https://twitter.com/tladeras) describió algunos *"pros y contras"* de usar este framework en un [post](https://education.rstudio.com/blog/2020/03/r-bootcamp/) que salió en el blog de RStudio education explicando la diferencia entre el framework de Ines y los tutoriales que pueden generarse con el paquete de R *learnr*. 
+
+2 - La documentación de Ines Montani es realmente detallada. Si encuentran algun problema en mientras estan generando el tutorial les recomiendo fuertemente que vuelvan a consultar su [repositorio](https://github.com/ines/course-starter-r). 
+
+> ¿Enseñas algún curso de R y queres convertirlo a un tutorial interactivo? Pensá que un curso diseñado para enseñarse con modalidad presencial no es esxactamente lo mismo que un tutorial online Te recomiendo leer este capítulo del libro [Teaching Tech Together de Greg Wilson](https://teachtogether.tech/#s:online). 
+
+### Receta para un tutorial interactivo 📝
+#### 1. **Ingredientes**
+
+Primero tenes que dividir tu material en  **capítulos**. Por lo general en un tutorial hay entre 4 y 5 capítulos.
+
+###### Los capítulos pueden tener:
+
+* Filminas con texto asociado  
+
+* Ejercicios en bloques de código 
+
+* Ejercicios de opción múltiple
+
+
+ 🤖 
+ 
+> Podes usar el paquete [decampr](https://laderast.github.io/decampr/articles/from_scratch.html) para generar alguna de las estructuras de archivos básicas.
+
+#### 2. **Copia el repositorio** 🏁
+
+Primero debes generar una cuenta en GitHub (es gratis). Si no sabes como hacer esto, poer favor revisa esta [página](https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account). Por consultas sobre el uso de git y GitHub con R te recomiendo consultar el libro [Happy git with R](htpps://www.happygitwithr.com) de [Jenny Bryan](https://twitter.com/JennyBryan).
+
+[El repositorio inicial para armar el curso](https://github.com/ines/course-starter-r) se encuentra en GitHub. Podes obtener una copia usándolo como un [template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
+
+Es buena idea mirar la [estrutura del repositorio](https://ines.github.io/course-starter-python/#repository-structure). En este ejemplo es un tutorial de Python, pero es basicamente la misma estructura. 
+
+> Recorda que el framework de Ines Montani esta también disponible para [Python](https://github.com/ines/course-starter-python).
+
+#### 3. **Elementos a modificar** 📦
+
+###### **Filminas con texto**
+* 📁 [Carpeta **slides** ](https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/slides) 
+  - Las filminas son archivos markdown (.md) files. Es buena idea elegit un nombre claro, por ejemplo que refleje el numero de capítulo y orden en que aparece, por ejemplo **chapter2_01.md**.
+  
+  - *How is the structure of the slides file?* Ines described it [here](https://github.com/ines/course-starter-r)
+  
+###### **Ejercicios en bloque de código**
+
+* 📁 [Carpeta **exercises**](https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/exercises) 
+  - Cada archivo de ejercicios tiene asociado otro con las soluciones (e idealmente un archivo para los tests)
+  - Los tests de los ejercicios no han sido completamente desarrollados aún.
+  - Los nombres de los archivos deben presentar el mismo número como referencia:
+  
+<center>  
+  ![Las soluciones y los ejercicios son archivos separados, unidos por el número que se encuentra al final del nombre del archivo](https://res.cloudinary.com/flor/image/upload/c_scale,w_475/v1585163873/tutorial2_hbfvio.png)
+</center>  
+
+###### **Ejercicios de opciones múltiples**
+
+* 📁 [Carpeta **chapters**](https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/chapters)
+  - No hay archivos especificos para ellos, se generan dentro de cada archivo en el capitulo correspondiente. 
+  - Podes leer más sobre ellos en [la documentación](https://github.com/ines/course-starter-r)
+
+⚠️
+
+>  Recordá usar un id para cada ejercicio de opciones múltiples si tenes más de uno dentro del mismo ejercicio. Tenés un ejemplo [acá, en el segundo ejercicio](https://github.com/noamross/gams-in-r-course/edit/master/chapters/chapter2.md)  
+
+###### **Capítulos** 
+
+* 📁 [Carpeta **chapters**](https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/chapters) 
+  - Cada capítulo es un archivo markdown (.md). 
+  - Estructura del capítulo: deberías incluir un nombre para las filminas y archivos de ejercicios y soluciones. 
+  
+  ![Ejemplo de la estructura de los capítulos del tutorial de Noam Ross](https://res.cloudinary.com/flor/image/upload/v1585062072/tutorial1_emry8n.png)
+
+#### No olvidar 😮
+
+- Modificar el [archivo *meta.json*](https://github.com/noamross/gams-in-r-course/blob/master/meta.json) con la información correspondiente a tu curso.
+
+- Agrega una foto de perfil y un logo! -> 📁 [Carpeta **static**.](https://github.com/noamross/gams-in-r-course/tree/master/static)
+
+⚠️
+>  Recordar incluir un logo en formato .svg! Podes convertir un archivo .png o .jpg a este formato online
+
+### 3. **¡Cocinando!**🍳
+
+¿Incluiste todos tus archivos en el repositorio? ¡Ahora es el momento de ver si todo funciona! 
+Recorda leer la sección: [Setting up Binder](https://github.com/ines/course-starter-r) y modificar el archivo [*install.R*](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/binder/install.R) agregando todos los paquetes utilizados en el tutorial -> 📁 [Carpeta **binder**](https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/binder)
+
+Deberá usar [Binder](https://mybinder.org/) en su repositorio. ¡Esto puede tomar un tiempo! ⏰
+
+Mientras tanto podes abrirte una cuenta en [Netlify](https://www.netlify.com/) para el deploy. Este paso puede ser evitado. ¿Por qué usar Netlify? [Encontré este blog post de Yihui Xie](https://yihui.org/en/2017/06/netlify-instead-of-github-pages/)con una posible explicación. ¡Es tu desición!
+
+A partir de que comiences a usar Netlify podrás visualizar los cambios que vas haciendo en el tutorial. El código de los ejercicios no funcionará hasta que no uses Binder en tu repositorio.
+
+#### 4. **Personalizalo** 🍒
+
+- [Agregar una descripción del curso en la página de inicio](https://ines.github.io/course-starter-python/#introduction-on-homepage)
+- [Cambiar el tamaño del logo](https://github.com/noamross/gams-in-r-course/blob/master/src/styles/index.module.sass) cambiando el argumento *width* en *.logo*
+- [Cambiar los colores del tema](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/theme.sass) Modifica el archivo *theme.sass*
+- [Agrega una licencia al material](https://creativecommons.org/licenses/?lang=es_ES) Busca la licencia que prefieras y luego incluila en el archivo [*meta.json*](https://github.com/noamross/gams-in-r-course/blob/master/meta.json)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+
+#### 5. **Algo falta** 
+
+⚠️  Recordá que los tests no estan desarrolados. Podés leer [la última sección](https://github.com/ines/course-starter-r) de la documentación para saber más respecto de los test.
+
+### Bon appétit 🍽!
+
+Ahora tenes listo tu tutorial para alimentar a la comunidad 
+
+Podes hacer un pull request a [este repositorio](https://github.com/flor14/tutorials) que estoy manteniendo y donde estoy listando todos los cursos generados con este framework y otro material util para generar tu propio curso.
+
+## Gracias
+
+Me gustaría agradecer a [Noam Ross](https://twitter.com/noamross), [Julia Silge](https://twitter.com/juliasilge), [Ines Montani](https://twitter.com/_inesmontani) y [Ted Laderas](https://twitter.com/tladeras) por dejar el material de sus cursos disponibles de manera gratuita.
+
+
+
+
+<!--more-->

@@ -15,6 +15,8 @@ header:
   focal_point: ''
   preview_only: true
 projects: []
+featuredImage: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1592763305/14_ibvzqm.png"
+image_preview: "https://res.cloudinary.com/flor/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1592763305/14_ibvzqm.png"
 ---
 
 ## Certificación de RStudio

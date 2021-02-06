@@ -123,33 +123,8 @@
   </url>
   
   <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/academic/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/authors/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/authors/"
-                />
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/binder/</loc>
+    <lastmod>2021-02-05T22:47:32-03:00</lastmod>
   </url>
   
   <url>
@@ -165,131 +140,6 @@
                 hreflang="en"
                 href="https://nostalgic-sinoussi-c542be.netlify.app/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/category/demo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/florencia-dandrea/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/florencia-dandrea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/author/florencia-dandrea/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/</loc>
-    <lastmod>2021-02-05T22:47:32-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tags/</loc>
-    <lastmod>2021-02-05T22:47:32-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/post/getting-started/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/%E5%BC%80%E6%BA%90/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/category/%E6%95%99%E7%A8%8B/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/binder/</loc>
-    <lastmod>2021-02-05T22:47:32-03:00</lastmod>
   </url>
   
   <url>
@@ -310,6 +160,21 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/learnr/</loc>
     <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/</loc>
+    <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/post/"
+                />
   </url>
   
   <url>
@@ -338,6 +203,21 @@
   </url>
   
   <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/tags/</loc>
+    <lastmod>2021-02-05T22:47:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/iteration/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
@@ -350,6 +230,16 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/slides/</loc>
     <lastmod>2021-02-05T22:22:22-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/slides/"
+                />
   </url>
   
   <url>
@@ -420,11 +310,31 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/category/shiny/</loc>
     <lastmod>2021-02-05T22:28:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/shiny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/category/shiny/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/shinyapp/</loc>
     <lastmod>2021-02-05T22:28:57-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/shinyapp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/shinyapp/"
+                />
   </url>
   
   <url>
@@ -445,25 +355,30 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/meetups/</loc>
     <lastmod>2021-02-05T22:22:22-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/meetups/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/meetups/"
+                />
   </url>
   
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/tag/rladies/</loc>
     <lastmod>2021-02-05T22:22:22-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/writing-technical-content/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/rladies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/post/writing-technical-content/"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/rladies/"
                 />
   </url>
   
@@ -494,6 +409,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nostalgic-sinoussi-c542be.netlify.app/publication/preprint/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/author/florencia-dandrea/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/florencia-dandrea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nostalgic-sinoussi-c542be.netlify.app/author/florencia-dandrea/"
                 />
   </url>
   
@@ -539,21 +484,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nostalgic-sinoussi-c542be.netlify.app/tag/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/post/jupyter/"
                 />
   </url>
   

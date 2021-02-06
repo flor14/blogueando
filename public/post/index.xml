@@ -5,20 +5,12 @@
     <link>https://nostalgic-sinoussi-c542be.netlify.app/post/</link>
       <atom:link href="https://nostalgic-sinoussi-c542be.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright> Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nostalgic-sinoussi-c542be.netlify.app/images/icon_huc2349eaaa65b90aba0192017f9e55596_12477_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://nostalgic-sinoussi-c542be.netlify.app/post/</link>
     </image>
-    
-    <item>
-      <title>Hi Hugo</title>
-      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/hi-hugo/</link>
-      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/hi-hugo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -115,6 +107,301 @@
     </item>
     
     <item>
+      <title>Sharing reproducible and interactive environments in R with Binder</title>
+      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/sharing-reproducible-and-interactive-environments-in-r-with-binder.en-us/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/sharing-reproducible-and-interactive-environments-in-r-with-binder.en-us/</guid>
+      <description>&lt;h2 id=&#34;working-in-a-reproducible-manner&#34;&gt;Working in a reproducible manner&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m trying to make my next paper easier to reproduce.
+This has led me to read about computational reproducibility tools and get involved in communities like &lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt;, where the focus is on elucidating best practices when sharing your code and data.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do you want to know more about ReproHack and computational reproducibility? I recommend &lt;a href=&#34;https://twitter.com/annakrystalli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Krystalli&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=KHMW8fV2NXo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;talk on UseR! 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;binder-and-r&#34;&gt;Binder and R?&lt;/h2&gt;
+&lt;iframe src=&#34;https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#16&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;I got to know &lt;a href=&#34;https://mybinder.readthedocs.io/en/latest/faq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binder&lt;/a&gt; thanks to the &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ines Montani tutorial framework&lt;/a&gt;. In this framework, Binder allows you to run the code of the exercises interactively.&lt;/p&gt;
+&lt;p&gt;One of the benefits of Binder is being able to share Shiny apps, although it has some disadvantages compared to &lt;a href=&#34;shinyapps.io&#34;&gt;shinyapps.io&lt;/a&gt;. &amp;ldquo;Binderized&amp;rdquo; Shiny apps take longer to build but it is still an interesting alternative when leaving an application as part of a publication. It also has no restrictions on the number of apps that can be left for free. In addition, by simply changing the URL that we use to call the app, Binder allows us to access the same project using the RStudio IDE.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you want to deploy your Shiny app using &lt;a href=&#34;shinyapps.io&#34;&gt;shinyapps.io&lt;/a&gt; you can find instructions &lt;a href=&#34;https://shiny.rstudio.com/articles/shinyapps.html#:~:text=Shinyapps.io%20is%20a%20platform,such%20as%20the%20RStudio%20IDE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in this webpage&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A short time ago I participated in &lt;a href=&#34;https://carpentrycon.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CarpentryCon&lt;/a&gt;, not only helping in the &lt;a href=&#34;https://carpentries.org/blog/2020/08/Hablamos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;translations of lessons into Spanish&lt;/a&gt;, but also giving a small workshop with Pablo Bernabeu on Reproducibility and Open Science where I briefly explained the use of Binder for R users.&lt;/p&gt;
+&lt;p&gt;If you want to know more about Binder, I suggest &lt;a href=&#34;https://the-turing-way.netlify.app/welcome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Turing Way book&lt;/a&gt;. The &lt;a href=&#34;https://twitter.com/turingway&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turing Way&lt;/a&gt; is another community that I recommend you follow if you are interested in the topic of open science and reproducibility.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tutorials: Binder is part of the Inés Montani framework for R and Python tutorials and can also be used to share &lt;a href=&#34;https://syoh.org/learnr-tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;learnR tutorials as it is explained in this blog post&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;center&gt;
+![](https://res.cloudinary.com/flor/image/upload/c_scale,w_460/v1599145015/charlaR_con_R_3_paoy3a.png)
+&lt;/center&gt;
+&lt;p&gt;I prepared these &lt;a href=&#34;https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt; as part of a meetup to present the first ReproHack in Spanish to be held at the &lt;a href=&#34;https://latin-r.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt; 2020 conference.&lt;/p&gt;
+&lt;p&gt;In these slides you can find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Different ways to capture computational environments&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A brief overview of the &lt;code&gt;renv&lt;/code&gt; package&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What Binder is&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Steps to share interactive environments with Binder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#21&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Slides in &lt;a href=&#34;https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;English&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Slides in &lt;a href=&#34;https://flor14.github.io/r_de_reproducibilidad/r_de_reproducibilidad.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spanish&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;final-note&#34;&gt;Final note&lt;/h1&gt;
+&lt;p&gt;Due to &lt;a href=&#34;https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;changes to Docker terms of service&lt;/a&gt; on November 1st the lack of activity for 6 months may cause the sharing link to become inactive.
+You can ask questions about Binder in the following link &lt;a href=&#34;https://discourse.jupyter.org/&#34;&gt;https://discourse.jupyter.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two examples of iteration with purrr - Class for the RStudio certification</title>
+      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/two-examples-of-iteration-with-purrr.en-us/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/two-examples-of-iteration-with-purrr.en-us/</guid>
+      <description>&lt;h2 id=&#34;rstudio-certification&#34;&gt;RStudio Certification&lt;/h2&gt;
+&lt;p&gt;I recently became certified as a RStudio Tidyverse &lt;a href=&#34;https://education.rstudio.com/trainers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructor&lt;/a&gt;. To pass the certification there are two exams. In this post, I am going to share a 15 minute class that I prepared to as part of the teaching exam.&lt;/p&gt;
+&lt;h2 id=&#34;what-to-teach-about&#34;&gt;What to teach about?&lt;/h2&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/c_scale,w_156/v1592765241/purrr_yefga4.png&#34; alt=&#34;Logo del paquete Purrr&#34;&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;I use loops frequently for my postdoc as I need to automate tasks. That is why I decided to teach two specific examples of iteration using functions in &lt;code&gt;purrr&lt;/code&gt; package.
+I find that these examples are motivating for students as these functions offer a simple way to get a lot of work done:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Read a group of files with the same extension and get a dataframe using &lt;code&gt;map_df()&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Generate Rmarkdown reports from a list of parameters automatically with &lt;code&gt;pwalk()&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/v1590443438/7_eng_oi5rck.png&#34; alt=&#34;Generate reports&#34;&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;h2 id=&#34;who-is-the-class-for&#34;&gt;Who is the class for?&lt;/h2&gt;
+&lt;p&gt;This class is part of three weeks long data analysis course for graduate students without any previous training in programming.&lt;br&gt;
+The 15 minutes are part of the last class of the course. The students already have learned basic topics as visualization, data manipulation, RMarkdown, and iteration.&lt;/p&gt;
+&lt;h2 id=&#34;some-considerations&#34;&gt;Some considerations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To answer the the exercises in &amp;ldquo;Let&amp;rsquo;s Practice&amp;rdquo; you need concepts that were explained in previous classes. Specially these 15 minutes should be teach after &lt;a href=&#34;https://r4ds.had.co.nz/iteration.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iteration&lt;/a&gt; and &lt;a href=&#34;https://r4ds.had.co.nz/r-markdown.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Rmarkdown&lt;/code&gt; &lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is not necessary to use Xaringan for the certification slides.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is important that you practice your class keeping track of how long it lasts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;files&#34;&gt;Files&lt;/h2&gt;
+&lt;h4 id=&#34;slides&#34;&gt;Slides&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://flor14.github.io/purrr_slides/purrr_class_15min#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides here&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://flor14.github.io/purrr_slides/purrr_class_15min#1&#34; width=&#34;672&#34; height=&#34;300&#34;&gt;&lt;/iframe&gt;
+&lt;h4 id=&#34;live-coding&#34;&gt;Live coding&lt;/h4&gt;
+&lt;p&gt;The file with the code for the live coding is in &lt;a href=&#34;https://mybinder.org/v2/gh/flor14/purrr_class/e6be8080991cbd9cad0eba7b4f24858a469026a3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Live coding.R&lt;/a&gt; (wait a bit until R-Studio loads)&lt;/p&gt;
+&lt;p&gt;ðŸ±ðŸ§¶&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/v1592183718/tuna_piola_qk9jad.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recipe for your first interactive tutorial</title>
+      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/cooking-your-first-tutorial.en-us/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/cooking-your-first-tutorial.en-us/</guid>
+      <description>&lt;p&gt;May 2020: Interview available on the RStudio blog about the tutorials &lt;a href=&#34;https://education.rstudio.com/blog/2020/05/teach-interactive-course/&#34;&gt;https://education.rstudio.com/blog/2020/05/teach-interactive-course/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The aim of this post is to provide a route map highlighting the resources available to generate your own tutorial.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;
+&lt;p&gt;Last year I helped to transform some courses from a DataCamp format to Ines Montani framework. &lt;a href=&#34;https://github.com/flor14/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; you have some examples of tutorials created with this framework.&lt;/p&gt;
+&lt;p&gt;After one busy year that included the end of my PhD finally I have some time to make a contribution to the community about how to build these tutorials.&lt;/p&gt;
+&lt;h3 id=&#34;why-to-use-ines-montani-framework&#34;&gt;Why to use Ines Montani framework?&lt;/h3&gt;
+&lt;p&gt;1- &lt;a href=&#34;https://twitter.com/tladeras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ted Laderas&lt;/a&gt; has written some &lt;em&gt;&amp;ldquo;pros and cons&amp;rdquo;&lt;/em&gt; of using this framework in this &lt;a href=&#34;https://education.rstudio.com/blog/2020/03/r-bootcamp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; in the RStudio education blog explaining the differences between Ines&#39; framework with &lt;em&gt;learnr&lt;/em&gt; package.&lt;/p&gt;
+&lt;p&gt;2 - Ines Montani documentation is really detailed. If you find problems in building the tutorial I strongly suggest you came back to &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;her repo&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do you teach a class using R and have a course that wants to convert to a tutorial? A course designed to be taught in a classroom is not exactly the same as an online tutorial. In the book &lt;a href=&#34;https://teachtogether.tech/#s:online&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching Tech Together by Greg Wilson&lt;/a&gt; you can read more about the differences.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;recipe-for-an-interactive-tutorial-ðÿ&#34;&gt;Recipe for an interactive tutorial ðŸ“&lt;/h3&gt;
+&lt;h4 id=&#34;1-ingredients&#34;&gt;1. &lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;First, you have to divide your course into &lt;strong&gt;chapters&lt;/strong&gt;. As a general rule there are 4 or 5 chapters in a tutorial.&lt;/p&gt;
+&lt;h6 id=&#34;the-chapters-can-have&#34;&gt;The chapters can have:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Slides with explanatory text associated&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Codeblock exercises&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Multiple choise exercises&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ðŸ¤–&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can use &lt;a href=&#34;https://laderast.github.io/decampr/articles/from_scratch.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;decampr package&lt;/a&gt; to generate some of the basic file structures.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;2-copy-the-repository-ðÿ&#34;&gt;2. &lt;strong&gt;Copy the repository&lt;/strong&gt; ðŸ&lt;/h4&gt;
+&lt;p&gt;You should have an account on GitHub (it is free). If you do not know how to do this, please check the following &lt;a href=&#34;https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webpage&lt;/a&gt;. If you want more information about git and GitHub in relation to R, I recommend the online book &lt;a href=&#34;htpps://www.happygitwithr.com&#34;&gt;Happy git with R&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/JennyBryan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jenny Bryan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The course starter R repository&lt;/a&gt; is on GitHub. You can get a copy using it as a &lt;a href=&#34;https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember that this framework is available for &lt;a href=&#34;https://github.com/ines/course-starter-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; too.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;3-custom-elements-ðÿ&#34;&gt;3. &lt;strong&gt;Custom elements&lt;/strong&gt; ðŸ“¦&lt;/h4&gt;
+&lt;h6 id=&#34;slides-with-text&#34;&gt;&lt;strong&gt;Slides with text&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;ðŸ“ &lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;slides&lt;/strong&gt; folder&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;The slides are markdown (.md) files. It is good idea to name the file according to the chapter number and order of appearance, for example &lt;strong&gt;chapter2_01.md&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;How is the structure of the slides file? Ines described it &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6 id=&#34;codeblock&#34;&gt;&lt;strong&gt;Codeblock&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;ðŸ“ &lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/exercises&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;exercises&lt;/strong&gt; folder&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Each exercise file has an associated a solution file (and ideally a test file)&lt;/li&gt;
+&lt;li&gt;Tests are not fully developed yet.&lt;/li&gt;
+&lt;li&gt;The names for each file should have the same reference number:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/c_scale,w_475/v1585163873/tutorial2_hbfvio.png&#34; alt=&#34;The solutions and exercises are separated files, linked by the final number in the name of the file&#34;&gt;&lt;/p&gt;
+&lt;/center&gt;  
+&lt;h6 id=&#34;multiple-choise-exercises&#34;&gt;&lt;strong&gt;Multiple choise exercises&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;ðŸ“ &lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/chapters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;chapters&lt;/strong&gt; folder&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;There are not specific files for them, are generated inside each chapter file.&lt;/li&gt;
+&lt;li&gt;Read more about them &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in the documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;âš ï¸&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember to include an id if more than one choice question is present in one exercise! You have an example &lt;a href=&#34;https://github.com/noamross/gams-in-r-course/edit/master/chapters/chapter2.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here, in the second exercise&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&#34;chapters&#34;&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ðŸ“ &lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/chapters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;chapters&lt;/strong&gt; folder&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each chapter is a markdown (.md) file.&lt;/li&gt;
+&lt;li&gt;Chapter structure: you should include the name of the slides, exercises and solution files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/v1585062072/tutorial1_emry8n.png&#34; alt=&#34;Example of files in the chapter folder&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;do-not-forget-ðÿ&#34;&gt;Do not forget ðŸ˜®&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Customize the &lt;a href=&#34;https://github.com/noamross/gams-in-r-course/blob/master/meta.json&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;meta.json&lt;/em&gt; file&lt;/a&gt; with the information corresponding to your course.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add a profile picture and logo too! -&amp;gt; ðŸ“ &lt;a href=&#34;https://github.com/noamross/gams-in-r-course/tree/master/static&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;static&lt;/strong&gt; folder.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;âš ï¸&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember include the logo in .svg format! You can convert a .png or .jpg image to this format online&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;3-cookingðÿ&#34;&gt;3. **Cooking!**ðŸ³&lt;/h3&gt;
+&lt;p&gt;Have you added all your files to you repository? Now it is time to see if it works!&lt;/p&gt;
+&lt;p&gt;Remember to read the &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Section: Setting up Binder&lt;/a&gt; and checking that the file &lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/binder/install.R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;install.R&lt;/em&gt;&lt;/a&gt; has all the packages used in the tutorial -&amp;gt; ðŸ“ &lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/tree/master/binder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;binder&lt;/strong&gt; folder.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You will have to use &lt;a href=&#34;https://mybinder.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binder&lt;/a&gt; in your repo. This can take a while! â°&lt;/p&gt;
+&lt;p&gt;Meanwhile, you can start your account in &lt;a href=&#34;https://www.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt; for the deploy as &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ines did&lt;/a&gt;, but this step could be skipped. Why to use netlify? &lt;a href=&#34;https://yihui.org/en/2017/06/netlify-instead-of-github-pages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I found this blogpost of Yihui Xie&lt;/a&gt; with an explanation. It is up to you!&lt;/p&gt;
+&lt;p&gt;As soon as you are using Netlify you will be able to visualize the changes that you are making in the tutorial. The code will not work in codeblock exercises until you use Binder in your repository.&lt;/p&gt;
+&lt;h4 id=&#34;4-customization-ðÿ&#34;&gt;4. &lt;strong&gt;Customization&lt;/strong&gt; ðŸ’&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ines.github.io/course-starter-python/#introduction-on-homepage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;To add a summary and a course description as introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/noamross/gams-in-r-course/blob/master/src/styles/index.module.sass&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Change logo size &lt;/a&gt; modifying &lt;em&gt;width&lt;/em&gt; argument after &lt;em&gt;.logo&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/theme.sass&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Change the colors&lt;/a&gt; Modify &lt;em&gt;theme.sass&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://creativecommons.org/licenses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Add a licence badge!&lt;/a&gt; You have to add it in the &lt;a href=&#34;https://github.com/noamross/gams-in-r-course/blob/master/meta.json&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;meta.json&lt;/a&gt; file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;5-something-is-missing&#34;&gt;5. &lt;strong&gt;Something is missing&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;âš ï¸&lt;/p&gt;
+&lt;p&gt;Remember that tests are not fully developed yet!. For more info, read &lt;a href=&#34;https://github.com/ines/course-starter-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the last section of the documentation.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;bon-appãtit-ðÿ&#34;&gt;Bon appÃ©tit ðŸ½!&lt;/h3&gt;
+&lt;p&gt;Now you have your online tutorial ready to feed the community!&lt;/p&gt;
+&lt;p&gt;You can make a pull request to &lt;a href=&#34;https://github.com/flor14/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this repository&lt;/a&gt; that collects all the courses generated with this framework and other useful material to build your own course.&lt;/p&gt;
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;I want to thank &lt;a href=&#34;https://twitter.com/noamross&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noam Ross&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/juliasilge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Silge&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/_inesmontani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ines Montani&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/tladeras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ted Laderas&lt;/a&gt; for deciding to leave the material of their courses for free.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where to publish your Shiny app?</title>
+      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/where-to-publish-your-shinyapp.en-us/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/where-to-publish-your-shinyapp.en-us/</guid>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;I started to develop Shiny apps because of my research. The development of a Shiny app for the analysis of toxicological databases allowed me to explore the data in relation to different criteria.&lt;/p&gt;
+&lt;h2 id=&#34;where-to-publish&#34;&gt;Where to publish?&lt;/h2&gt;
+&lt;p&gt;After finishing the app, my first question was whether to publish the Shiny app. Should I include it as supplementary material of other paper or could be published as software itself?&lt;/p&gt;
+&lt;p&gt;I got valuable suggestions in the RStudio Community forum including a list of possible journals accepting Shiny apps, in the following &lt;a href=&#34;https://community.rstudio.com/t/can-i-publish-a-shiny-app-in-a-scientific-journal-how-where/6306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;thread&lt;/a&gt;. I found also a lot of resources in this post: &lt;a href=&#34;https://www.software.ac.uk/which-journals-should-i-publish-my-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In which journals should I publish my software? By Neil Chue Hong&lt;/a&gt;. Finally, I decided to try with &lt;a href=&#34;https://joss.theoj.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Journal of Open Source Software&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One advantage of publishing the code itself is that the journal&#39; review process focused on how to release the code as open source software, a concept that as researchers we are barely familiarized.&lt;/p&gt;
+&lt;p&gt;As an example, I included a file to indicate how users could contribute to my Shiny app and a license. I probably would not have done any of these steps of trying to publish the Shiny App as supplementary material of a paper.&lt;/p&gt;
+&lt;h2 id=&#34;how-good-does-my-shiny-app-have-to-be&#34;&gt;How good does my Shiny app have to be?&lt;/h2&gt;
+&lt;p&gt;It depends on the publication venue. In my experience with JOSS, you have to make your software available in an open repository (GitHub, Bitbucket, etc.) and include an OSI approved open source license. Read more here about the other &lt;a href=&#34;https://joss.readthedocs.io/en/latest/submitting.html#submission-requirements&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;requirements&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some considerations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make the Shiny app into an R package&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Add a DOI for the Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://r-pkgs.had.co.nz/release.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Add version numbers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Include community guidelines&lt;/strong&gt;. For this you can use the function &lt;code&gt;usethis::use_tidy_contributing()&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-first-shiny-paper&#34;&gt;My first &amp;ldquo;shiny&amp;rdquo; paper&lt;/h2&gt;
+&lt;p&gt;Finally, last year I published a first Shiny app to analyze ecotoxicological databases.&lt;/p&gt;
+&lt;p&gt;D’Andrea et al., (2019). &lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.00785&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment&lt;/a&gt;. Journal of Open Source Software,
+4(37), 785&lt;/p&gt;
+&lt;h2 id=&#34;are-scientific-papers-outdated&#34;&gt;Are Scientific Papers outdated?&lt;/h2&gt;
+&lt;p&gt;I have recently read a very interesting article called &lt;a href=&#34;https://www.chronicle.com/article/The-Scientific-Paper-Is/248045&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Scientific Paper Is Outdated. By R. Abernathey&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Should scientists spend more time developing software? What do you think?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;thanks&#34;&gt;Thanks!&lt;/h3&gt;
+&lt;p&gt;I want to thank &lt;a href=&#34;https://masalmon.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maëlle Salmon&lt;/a&gt;, who encouraged me to publish this post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive web applications with Shiny - meetup material</title>
+      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/intro_shiny.en-us/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/intro_shiny.en-us/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;
+&lt;p&gt;In February I will participate in a meetup of the &lt;a href=&#34;http://rladies.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt; chapter &lt;a href=&#34;https://twitter.com/RLadies_rciacte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Resistencia-Corrientes&lt;/a&gt; and the R user group [R en el NEA](https : //renelnea.github.io/web/). These groups represent the R users in the cities of Resistencia and Corrientes, Argentina.&lt;/p&gt;
+&lt;p&gt;The meetup consists of a workshop where attendees learn to build their own apps. This material improves the one that I presented in an &lt;a href=&#34;https://twitter.com/RLadiesBA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Buenos Aires&lt;/a&gt; meetup in 2017.&lt;/p&gt;
+&lt;h3 id=&#34;material&#34;&gt;Material&lt;/h3&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/v1582639263/mamu_sfbchd.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;a href=&#34;https://flor14.github.io/rladies_shiny_meetup_2020/rladies_shiny_2020#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/flor14/rladies_shiny_meetup_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repository with the slide&amp;rsquo;s code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/flor14/rladies_shiny_meetup_2020_es/tree/master/Rladies_app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code of the ShinyApp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I hope this material can help those who are starting with shiny or organizing meetups about it.&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/flor/image/upload/c_scale,w_254/v1582643473/parentesis_y06vxc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://nostalgic-sinoussi-c542be.netlify.app/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -142,7 +429,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-579164328&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-542391876&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -152,7 +439,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-579164328&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-542391876&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -419,57 +706,6 @@ date: 2019-09-01
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-&lt;script src=&#34;https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     

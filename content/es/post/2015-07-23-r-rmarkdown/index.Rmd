@@ -1,10 +1,16 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+date: 2016-04-20
+lastmod: 2017-09-03
+draft: false
+tags: ["academic", "hugo"]
+title: "Getting started with the Academic framework for Hugo"
+math: true
+summary: "Create a beautifully simple personal or academic website in under 10 minutes."
+header:
+  image: "https://res.cloudinary.com/flor/image/upload/v1608248822/jujuy-colores_frmvax.jpg"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)

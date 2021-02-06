@@ -95,16 +95,6 @@
   <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/post/hi-hugo/</loc>
     <lastmod>2021-02-04T17:21:32-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/post/hi-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/hi-hugo/"
-                />
   </url>
   
   <url>
@@ -543,6 +533,16 @@
   </url>
   
   <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2017-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/tag/hugo/</loc>
+    <lastmod>2017-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -584,81 +584,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://nostalgic-sinoussi-c542be.netlify.app/es/author/robert-ford/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/post/2015-07-23-r-rmarkdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/post/2015-07-23-r-rmarkdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/plot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/plot/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/category/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/category/r/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/r-markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/r-markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nostalgic-sinoussi-c542be.netlify.app/es/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/tag/regression/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nostalgic-sinoussi-c542be.netlify.app/es/tag/regression/"
                 />
   </url>
   

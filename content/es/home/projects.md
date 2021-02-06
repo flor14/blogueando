@@ -25,15 +25,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Todos
     tag: '*'
   - name: RLadies
     tag: RLadies
+  - name: Ecotoxicology
+    tag: Ecotoxicology
   - name: Reproducibilidad
     tag: Reproducibilidad
   - name: Shiny
     tag: Shiny
-  - name: Other
+  - name: Otros
     tag: Demo
 
 design:
@@ -45,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

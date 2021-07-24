@@ -3,30 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Biological Sciences
+    institution: University of Buenos Aires, Argentina
+    year: 2019
+  - course: Teaching
+    institution: University of Buenos Aires, Argentina
+    year: 2015
+  - course: BSc in Biological Sciences
+    institution: University of Buenos Aires, Argentina
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 highlight_name: false
 interests:
-- Programming
-- Reproducibility
-- Shiny apps
+- Open science
 - Education
-- Open Science
-- Ecotoxicology
-- Regulation
 
 organizations:
-- name: Stanford University
+- name: University of British Columbia
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Postdoctoral Teaching & Learning Fellow - Master of Data Science
 social:
 - icon: envelope
   icon_pack: fas

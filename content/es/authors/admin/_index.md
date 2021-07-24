@@ -4,27 +4,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: Doctora en Biología
-    institution: Universidad de Buenos Aires
+    institution: Universidad de Buenos Aires, Argentina
     year: 2019
   - course: Profesora de Educación Media y Superior en Ciencias Biológicas 
-    institution: Universidad de Buenos Aires
+    institution: Universidad de Buenos Aires, Argentina
     year: 2015
   - course: Licenciada in Biología
-    institution: Universidad de Buenos Aires
+    institution: Universidad de Buenos Aires, Argentina
     year: 2012
 email: ""
 highlight_name: false
 interests:
-- Programación en R
+- Programación
 - Reproducibilidad y ciencia abierta
 - Educación
-- Ecotoxicología
-- Regulación
 
 organizations:
-- name: INTA - CONICET
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Universidad de British Columbia (UBC)
+  url: https://masterdatascience.ubc.ca/
+role: Investigadora postdoctoral del Master de Ciencia de Datos
 social:
 - icon: envelope
   icon_pack: fas
